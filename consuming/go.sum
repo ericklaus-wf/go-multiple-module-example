@@ -1,0 +1,6 @@
+github.com/ericklaus-wf/go-multiple-module-example v1.0.1 h1:0EM+Xdvk3n9NgxOtVJu4e0Y/OsB3pb1Zp/S3ThBgnq0=
+github.com/ericklaus-wf/go-multiple-module-example v1.0.1/go.mod h1:PY1Nqsz4gIGb8c7WxMrEVG5hWfbit0bNwRPv8GVTrrE=
+github.com/ericklaus-wf/go-multiple-module-example/cmd/taggedmodule v1.0.1 h1:mZb1QY/p89w4FxDhcmK20YVRO95JTxbKGOyKTgbfTIM=
+github.com/ericklaus-wf/go-multiple-module-example/cmd/taggedmodule v1.0.1/go.mod h1:bU4gt/7ke+wEionVIL5iwK042AFeXRp3BE1NGvoxbKw=
+github.com/ericklaus-wf/go-multiple-module-example/cmd/untaggedmodule v0.0.0-20230209194556-ff4742d2eaf3 h1:Fxs6Hv1chF2nHz8fdQiwqmK+0kl9e9NKYlTpnI22QxU=
+github.com/ericklaus-wf/go-multiple-module-example/cmd/untaggedmodule v0.0.0-20230209194556-ff4742d2eaf3/go.mod h1:OgeSJ2ADE/1u/cFb3lWKfZffZu2PFii6ghv7jDi8/Nw=
