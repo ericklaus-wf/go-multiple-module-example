@@ -1,4 +1,4 @@
-module github.com/ericklaus-wf/go-multiple-module-example/cmd/taggedmodule
+module github.com/ericklaus-wf/go-multiple-module-example/cmd/untaggedmodule
 
 go 1.18
 
